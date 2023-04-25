@@ -14,5 +14,8 @@ The softmax activation ensures that we receive a bunch of probabilities for the 
 Prediction:
 For the prediction notebook, we will load the tokenizer file which we have stored in the pickle format. We will then load our next word model which we have saved in our directory.
 
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/123542622/234350526-55f0a8ea-4b34-42de-a056-038a0764191f.png">
+
+
 Observation:
 We are able to develop a high-quality next word prediction for the metamorphosis dataset. We are able to reduce the loss significantly in about 115 epochs. The next word prediction model which we have developed is fairly accurate on the provided dataset. The overall quality of the prediction is good.
