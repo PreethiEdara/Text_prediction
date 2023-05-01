@@ -1,7 +1,7 @@
 # Text_prediction
 The model will consider the last word of a particular sentence and predict the next possible word. We will be using methods of natural language processing, language modeling, and deep learning. We will start by analyzing the data followed by the pre-processing of the data. We will then tokenize this data and finally build the deep learning model. The deep learning model will be built using LSTM’s
 
-**Pre-processing the Dataset:**
+**Pre-processing the Dataset:**  
 The first step is to remove all the unnecessary data from the Metamorphosis dataset. We will delete the starting and end of the dataset.
 
 **Tokenization:** Tokenization refers to splitting bigger text data, essays, or corpus’s into smaller segments. These smaller segments can be in the form of smaller documents or lines of text data. 
